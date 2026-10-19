@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vishwas and Madhumitha//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:reception-20261129@vishwas-madhumitha
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Reception Party · Vishwas & Madhumitha
+LOCATION:Subz Banquet Hall\, 3rd Floor\, Cosmopolitan Club\, 22nd Cross Rd\, Jayanagar\, Bengaluru 560011
+DESCRIPTION:You are warmly invited to the Reception Party of Vishwas & Madhumitha.
+URL:https://vish-vcoder.github.io/vishwas-madhumitha/
+END:VEVENT
+END:VCALENDAR
